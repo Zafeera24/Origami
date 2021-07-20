@@ -1,0 +1,20 @@
+.header{
+    color: rgb(93, 49, 236);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+}
+
+body{
+     background-color: rgb(255, 255, 255);
+}
+img{
+    border: solid 10px royalblue;
+    border-radius: 20px
+}
+
+a:link{
+    color: plum;
+ } 
+ a:visited{
+     color: skyblue;
+ }
